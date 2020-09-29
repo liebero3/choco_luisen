@@ -1,0 +1,3 @@
+choco install lunacy
+choco install libreoffice-fresh
+choco install vscode
