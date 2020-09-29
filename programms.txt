@@ -1,3 +1,4 @@
 choco install lunacy
 choco install libreoffice-fresh
 choco install vscode
+choco install audacity
