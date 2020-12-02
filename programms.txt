@@ -1,1 +1,1 @@
-choco upgrade lunacy libreoffice-fresh vscode audacity
+choco upgrade lunacy libreoffice-fresh vscode audacity ojdkbuild8
